@@ -14,5 +14,3 @@ COPY skills_job_dim
 FROM 'Z:\.Portfolio\SQL\Project\SQL_Project_Data_Analysis\csv_files\skills_job_dim.csv'
 WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
 
-select * from job_postings_fact 
-limit 100
