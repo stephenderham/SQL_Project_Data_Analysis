@@ -2,7 +2,7 @@
 Focus Question: What are the top-paying data analytst jobs?
 - This will help discover the type of jobs that are the highest paying for a data analyst.
 - Focuses on job postings with specified salaries (with steps in removing null values)
-- Why: To highlight the top opportunities for a data analyst, offering insights into the job market
+- Why? To highlight the top opportunities for a data analyst, offering insights into the job market
 */
 
 SELECT
