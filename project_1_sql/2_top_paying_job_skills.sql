@@ -17,7 +17,7 @@ WITH top_paying_jobs AS (
     LEFT JOIN company_dim ON
         company_dim.company_id = job_postings_fact.company_id
     WHERE
-        job_title LIKE '%Data Analyst%' AND
+        job_title LIKE '%Analyst%' AND
         job_location = 'Anywhere' AND
         salary_year_avg IS NOT NULL
     ORDER BY 
