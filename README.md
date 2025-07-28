@@ -237,8 +237,4 @@ From the analysis, several key insights emerged:
 4. **Skills with Higher Salaries**: Specialized skills are associated with the highest average salaries, indicating a premium on niche expertise.
 5. **Optimal Skills for Job Market Value**: SQL leads in demand and offers for a high average salary, positioning it as one of the most optimal skills for data analysts to learn to maximize their market value.
 
-<<<<<<< HEAD
 Overall, This project enhanced my SQL skills and provided valuable insights into the analytical job market. The findings from the analysis serve as a guide to prioritizing skill development. This exploration highlights the importance of continuous learning and adaptation to emerging trends in the field of analytics.
-=======
-Overall, This project enhanced my SQL skills and provided valuable insights into the analytical job market. The findings from the analysis serve as a guide to prioritizing skill development. This exploration highlights the importance of continuous learning and adaptation to emerging trends in the field of analytics.
->>>>>>> d071ce138d9b785078c2c7478d88fd9514644b92
