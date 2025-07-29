@@ -90,7 +90,8 @@ Insights Discovered:
 - **Tableau** is also highly sought after, with a bold count of X.
 Other skills like **R**, **Snowflake**, **Pandas**, and **Excel** show varying degrees of demand.
 
-![Top Paying Skills]()
+![Top Paying Skills](Assets\2_top_paying_roles_skills.png)
+
 
 ### 3. In-Demand Skills for Analysts
 This query helped identify the skills most frequently requested in job postings, directing focus to areas with high demand.
