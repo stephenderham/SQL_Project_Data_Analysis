@@ -49,7 +49,7 @@ Here's a breakdown of the top analyst jobs:
 - **Diverse Employers:** There is a diverse range of companies within the top 10 roles, showing a broad interest across different industries
 - **Job Title Variety:** The results show a diversity of job titles, from the general 'Data Analyst' to 'Director of Analytics', reflecting varied roles and specializations within the analytical field.
 
-![Top Paying Roles](Assets\1_top_paying_roles.png) 
+![Top Paying Roles](Assets/1_top_paying_roles.png) 
 
 ### 2. Skills for Top Paying Jobs
 To understand what skills are required for the top-paying jobs, I used a CTE and joined the job postings data with the skills data, providing insights into what employers value for these roles.
@@ -90,7 +90,7 @@ Insights Discovered:
 - **Tableau** is also highly sought after, with a bold count of X.
 Other skills like **R**, **Snowflake**, **Pandas**, and **Excel** show varying degrees of demand.
 
-![Top Paying Skills](Assets\2_top_paying_roles_skills.png)
+![Top Paying Skills](Assets/2_top_paying_roles_skills.png)
 
 
 ### 3. In-Demand Skills for Analysts
