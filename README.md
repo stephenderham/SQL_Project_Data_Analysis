@@ -1,7 +1,7 @@
 # Introduction
 This project focuses on the analyse and the interaction of a data job market database via SQL. Focusing on analyst roles, it explores the top-paying jobs, in-demnd skills, and where high demand meets high salary in analytical roles.
 
-SQL queries to explore this database? Check them out here: [project_1_sql folder](/project_1_sql/)
+SQL queries to explore this database. Check them out here: [project_1_sql folder](/project_1_sql/)
 # Background
 This project was influenced by the importance of understanding the data job market and identifying the key skills most in demand. It provided valuable insight into which tools and technologies are essential for data professionals, helping me make more informed decisions about what to learn and where to focus my upskilling efforts. At the same time, it gave me practical, hands-on experience with SQL queries and working directly with a large, real-world dataset of job postings. 
 
